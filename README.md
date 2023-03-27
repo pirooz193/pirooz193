@@ -10,3 +10,4 @@ Thanks for stopping by!
 <image align ="left" src ="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"/>
 
 <image align ="left" src ="https://www.vectorlogo.zone/logos/hibernate/hibernate-ar21.svg"/>
+<image width ="45" align ="left" src ="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg"/>
