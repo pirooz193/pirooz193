@@ -1,6 +1,6 @@
-### Hi there! I'm a Java developer and I love working with technologies like Spring and Hibernate. Take a look at my Github stats below to see what I've been working on lately.
+### Hi there! I'm a backend developer. Take a look at my Github stats below to see what I've been working on lately.
 
-In addition to Java, I also have experience with other programming languages and frameworks. Check out my top languages on Github and feel free to browse my repositories.
+In addition to Java, I also have experience with other programming languages and frameworks like Flutter. Check out my top languages on Github and feel free to browse my repositories.
 
 Thanks for stopping by!
 
